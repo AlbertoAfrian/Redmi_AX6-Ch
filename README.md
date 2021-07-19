@@ -15,7 +15,6 @@ A template for building OpenWrt with GitHub Actions
 - ZeroTier
 - Turbo ACC 网络加速
 - 访客网络
-- ZARM虚拟内存
 - UU游戏加速器
 - 京东签到服务
 - 上网时间控制
