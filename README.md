@@ -9,7 +9,8 @@ A template for building OpenWrt with GitHub Actions
 ## 插件
 
 - IPV6
-- 
+- 简单Mesh
+- Lean Plus
 
 ## Credits
 
