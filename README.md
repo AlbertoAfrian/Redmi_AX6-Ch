@@ -13,6 +13,11 @@ A template for building OpenWrt with GitHub Actions
 - Lean Plus
 - 去广告
 - 薅京东豆
+- zerotier
+- Turbo ACC
+- 访客网络
+- zarm虚拟内存
+- 网易UU游戏加速
 - 
 
 ## Credits
