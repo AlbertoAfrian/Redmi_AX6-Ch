@@ -9,16 +9,17 @@ A template for building OpenWrt with GitHub Actions
 ## 插件
 
 - IPV6
-- 简单Mesh
-- Lean Plus
-- 去广告
-- 薅京东豆
-- zerotier
-- Turbo ACC
+- 简单MESH
+- 广告屏蔽大师 Plus+（支持 AdGuardHome /Host / DNSMASQ 规则）
+- ShadowSocksR Plus+
+- ZeroTier
+- Turbo ACC 网络加速
 - 访客网络
-- zarm虚拟内存
-- 网易UU游戏加速
-- 
+- ZARM虚拟内存
+- UU游戏加速器
+- 京东签到服务
+- 上网时间控制
+- 解锁网易云灰色歌曲
 
 ## Credits
 
