@@ -12,10 +12,14 @@ A template for building OpenWrt with GitHub Actions
 - 简单MESH
 - 广告屏蔽大师 Plus+（支持 AdGuardHome /Host / DNSMASQ 规则）
 - ShadowSocksR Plus+
+- OpenClash
+- SmartDNS 服务器
+- MWAN3 分流助手
+- PPTP VPN 服务器
 - ZeroTier
 - Turbo ACC 网络加速
 - 访客网络
-- UU游戏加速器
+- 多线多拨
 - 京东签到服务
 - 上网时间控制
 - 解锁网易云灰色歌曲
