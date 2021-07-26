@@ -13,7 +13,6 @@ A template for building OpenWrt with GitHub Actions
 - 广告屏蔽大师 Plus+（支持 AdGuardHome /Host / DNSMASQ 规则）
 - ShadowSocksR Plus+
 - OpenClash
-- SmartDNS 服务器
 - MWAN3 分流助手
 - PPTP VPN 服务器
 - ZeroTier
