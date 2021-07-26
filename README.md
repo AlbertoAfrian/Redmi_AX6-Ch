@@ -10,15 +10,18 @@
 - 简单MESH
 - 广告屏蔽大师 Plus+（支持 AdGuardHome /Host / DNSMASQ 规则）
 - ShadowSocksR Plus+
-- OpenClash
+- PassWall
 - MWAN3 分流助手
-- PPTP VPN 服务器
+- 天翼家庭云/天翼云盘提速
+- Frp 内网穿透
+- OpenVPN
 - ZeroTier
 - Turbo ACC 网络加速
 - 访客网络
 - 多线多拨
 - 京东签到服务
 - 上网时间控制
+- UU游戏加速器
 - 解锁网易云灰色歌曲
 
 ## Credits
