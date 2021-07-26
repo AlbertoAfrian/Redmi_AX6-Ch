@@ -1,6 +1,4 @@
-# Actions-OpenWrt
-
-A template for building OpenWrt with GitHub Actions
+# Actions OpenWrt Redmi AX6
 
 ## 硬件
 
