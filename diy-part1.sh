@@ -20,3 +20,4 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 git clone https://github.com/fw876/helloworld package/helloworld
 git clone https://github.com/xiaorouji/openwrt-passwall package/openwrt-passwall
 git clone https://github.com/kiddin9/openwrt-bypass package/openwrt-bypass
+git clone https://github.com/vernesong/OpenClash package/OpenClash
