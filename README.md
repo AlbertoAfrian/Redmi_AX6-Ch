@@ -22,6 +22,7 @@
 - 上网时间控制
 - UU游戏加速器
 - 解锁网易云灰色歌曲
+- 等等
 
 ## Credits
 
@@ -39,7 +40,7 @@
 - [ActionsRML/delete-workflow-runs](https://github.com/ActionsRML/delete-workflow-runs)
 - [dev-drprasad/delete-older-releases](https://github.com/dev-drprasad/delete-older-releases)
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch)
-- [jingleijack/OpenWrt-AX6](https://github.com/jingleijack/OpenWrt-AX6)
+- [jingleijack/AX6-AX3600_Almighty-Edition_Config](https://github.com/jingleijack/AX6-AX3600_Almighty-Edition_Config)
 
 ## License
 
